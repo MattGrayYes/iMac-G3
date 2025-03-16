@@ -1,4 +1,4 @@
-#iMac G3 Resources
+# iMac G3 Resources
 
 Collated documentation on the iMac G3, from the perspective of trying to reuse the iMac G3 CRT and peripherals, with the iMac G3 computer removed.
 
@@ -14,8 +14,9 @@ There are two main subtypes of iMac G3, named for their type of CD Drive:
 * **These CRT screens run at 26,000 volts**. Twenty-six thousand.
 * Even if the computer has been turned off for years, the CRT could still hold this voltage.
 * **You can get shocked by the CRT directly, or any of the boards connected to it**, which may also have components or traces at this high voltage.
-* Discharge the CRT before going anywhere near it or its components
 * Never open a device while connected to mains electricity.
+* Never go anywhere near a CRT or its components unless you know what you're doing and understand the risks.
+* Discharge the CRT before going anywhere near it or its components.
 
 ##Tray Loading iMac G3
 * The Bondi Blue one is the original, oldest one.
