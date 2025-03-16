@@ -94,6 +94,21 @@ For reference, if you want to make a VGA Adapter, here are the VGA Pins you need
 14. VSync
 15. .
 
+### Power Cable
+Without the logic board, to turn on the PSU, it needs two pins connecting, and a minimum current draw on the 5V rail.
+
+I read somewhere that without the the rest of the PSU on, the 5V trickle line is still on.
+
+In his [Tray loading iMac G3 CRT monitor conversion](https://www.youtube.com/watch?v=hGWNIdyYnic) video, Mandrewsss works round these requirements.
+
+* Connecting a switch between pins 23(brown) / 24(purple) on the Power connector
+* Connecting a 5W 10Ω resistor on the 5V rail between pins 2(black) / 10 (red)	
+	* This dissipates 2.5W as heat, so the resistor is placed by the fan.
+
+![Resistor and switch whires on power connector](./images/Mandrewsss%20power%20close%20up.png)
+
+![](./images/Mandrewsss%20power%20pinout.png)
+
 ## Slot Loading iMac G3
 
 The CRT screen runs at 26,000 volts. Twenty-six thousand. The dangerous bits seem way more accessible on slot-loading iMacs than the tray-loading iMacs. Be very careful.
