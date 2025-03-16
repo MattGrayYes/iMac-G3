@@ -27,16 +27,17 @@ A lot of my understanding came from the information and links in [Rocky Hill](ht
 * Has 3 or 4 flying cables to connect the computer to the CRT and chaissis peripherals.
 	* Audio Cable
 		* A small female Molex-style plug
-			* I haven't worked out which one it is yet.
-		* Connections from (TBC):
-			* Power Button & LED
-			* Speakers
-			* Audio IO ports
-			* Mic
+			* [20 pin, 2mm pitch Molex Milli-Grid Recepticle with Center Polarisation Key and Locking Ramp](https://www.molex.com/en-us/products/part-detail/511102051)
+			* Mating Header: [0878312019](https://www.molex.com/en-us/products/part-detail/0878312019) / [0878312020](https://www.molex.com/en-us/products/part-detail/0878312020)	/ [0878312021](https://www.molex.com/en-us/products/part-detail/0878312021)	/ [0878312010](https://www.molex.com/en-us/products/part-detail/0878312010)
+			* Connections from (TBC):
+				* Power Button & LED
+				* Speakers
+				* Audio IO ports
+				* Mic
 		* Plugs into the A/V Interconnect Board
 	* Main Power Cable
-		* A larger female Molex-style plug.
-			* I haven't worked out which one it is yet. The keying looks different to the ones I've found so far.
+		* [24 pin, 3mm pitch Molex Micro-Fit 3.0 Recepticle](https://www.molex.com/en-us/products/part-detail/0430252400)
+			* Mating header: [0430452427](https://www.molex.com/en-us/products/part-detail/0430452427) / [0430452428](https://www.molex.com/en-us/products/part-detail/430452428) / [0430452412](https://www.molex.com/en-us/products/part-detail/430452412)
 		* Connections from the Power Supply Board
 		* Plugs into the Power Filter Board
 		* Different pinout to ATX PSUs with similar connectors
