@@ -18,7 +18,7 @@ There are two main subtypes of iMac G3, named for their type of CD Drive:
 * Never go anywhere near a CRT or its components unless you know what you're doing and understand the risks.
 * Discharge the CRT before going anywhere near it or its components.
 
-##Tray Loading iMac G3
+## Tray Loading iMac G3
 * The Bondi Blue one is the original, oldest one.
 	* Has an IRDA port on the left speaker.
 * Other colour tray loaders are newer, and don't have IRDA.
@@ -92,7 +92,7 @@ For reference, if you want to make a VGA Adapter, here are the VGA Pins you need
 14. VSync
 15. .
 
-##Slot Loading iMac G3
+## Slot Loading iMac G3
 
 The CRT screen runs at 26,000 volts. Twenty-six thousand. The dangerous bits seem way more accessible on slot-loading iMacs than the tray-loading iMacs. Be very careful.
 
