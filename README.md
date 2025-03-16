@@ -27,6 +27,7 @@ A lot of my understanding came from the information and links in [Rocky Hill](ht
 * Has 3 or 4 flying cables to connect the computer to the CRT and chaissis peripherals.
 	* Audio Cable
 		* A small female Molex-style plug
+			* I haven't worked out which one it is yet.
 		* Connections from (TBC):
 			* Power Button & LED
 			* Speakers
@@ -34,7 +35,8 @@ A lot of my understanding came from the information and links in [Rocky Hill](ht
 			* Mic
 		* Plugs into the A/V Interconnect Board
 	* Main Power Cable
-		* A larger female Molex-style plug
+		* A larger female Molex-style plug.
+			* I haven't worked out which one it is yet. The keying looks different to the ones I've found so far.
 		* Connections from the Power Supply Board
 		* Plugs into the Power Filter Board
 		* Different pinout to ATX PSUs with similar connectors
@@ -104,6 +106,7 @@ In his [Tray loading iMac G3 CRT monitor conversion](https://www.youtube.com/wat
 * Connecting a switch between pins 23(brown) / 24(purple) on the Power connector
 * Connecting a 5W 10Ω resistor on the 5V rail between pins 2(black) / 10 (red)	
 	* This dissipates 2.5W as heat, so the resistor is placed by the fan.
+	* [7W 10Ω Resistor on CPC](https://cpc.farnell.com/welwyn/w22-10r-ji/resistor-ww-7w-5-10r/dp/RE04105)
 
 ![Resistor and switch whires on power connector](./images/Mandrewsss%20power%20close%20up.png)
 
