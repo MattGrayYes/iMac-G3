@@ -2,13 +2,15 @@
 
 Collated documentation on the iMac G3, from the perspective of trying to reuse the iMac G3 CRT and peripherals, with the iMac G3 computer removed.
 
-A lot of my understanding came from the information and links in [Rocky Hill](https://github.com/qbancoffee)'s [iMac\_G3\_IVAD\_init](https://github.com/qbancoffee/imac_g3_ivad_board_init) repository. If you want to use a slot-loading iMac G3 as a monitor, check out that repo first, as it has some PCBs that you can use to do this. They adapt the iMac's connectors into VGA + minijack + screw terminals, make it power on properly, and output EDID via the VGA.
-
+The [Documents folder](./Documents/) of this repository contains Apple service manuals for different versions of the iMac G3, and other useful resources.
 
 There are two main subtypes of iMac G3, named for their type of CD Drive:
 
 * Tray Loading iMac G3
 * Slot Loading iMac G3
+
+A lot of my understanding came from the information and links in [Rocky Hill](https://github.com/qbancoffee)'s [iMac\_G3\_IVAD\_init](https://github.com/qbancoffee/imac_g3_ivad_board_init) repository. If you want to use a slot-loading iMac G3 as a monitor, check out that repo first, as it has some PCBs that you can use to do this. They adapt the iMac's connectors into VGA + minijack + screw terminals, make it power on properly, and output EDID via the VGA.
+
 
 ## WARNING
 * **These CRT screens run at 26,000 volts**. Twenty-six thousand.
